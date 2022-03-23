@@ -1,0 +1,6 @@
+red * purple * green * teal * orange * yellow * orange * white * teal * purple * white * green *
+teal * yellow * purple * orange * green * red * green * white * orange * yellow * white * purple *
+orange * red * yellow * green * purple * teal * purple * white * green * red * white * yellow * 
+green * teal * red * purple * yellow * orange * yellow * white * purple * teal * white * red * 
+purple * orange * teal * yellow * red * green * red * white * yellow * orange * white * teal *
+yellow * green * orange * red * teal * purple * teal * white * red * green * white * orange *
